@@ -1,0 +1,23 @@
+{
+    "name": "borobudur/mapper",
+    "type": "library",
+    "description": "Borobudur Mapper Component",
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Iqbal Maulana",
+            "email": "iq.bluejack@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Borobudur\\Component\\Mapper\\": ""
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1-dev"
+        }
+    }
+}
